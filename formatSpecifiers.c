@@ -18,7 +18,9 @@ int main() {
     printf("item 3: Ksh.%-6.3f\n",item3);
     printf("item 4: Ksh.%-6.3f\n",item4);
 
-
+    // Comment from GabrielNyawade
+    // I didn't know you could align in the terminal. Good job on that.
+    // The only issue though, are the values -8 and -6 just arbitrary?
 
 
 
